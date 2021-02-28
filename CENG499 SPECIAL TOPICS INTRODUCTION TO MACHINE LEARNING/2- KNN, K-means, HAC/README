@@ -1,0 +1,10 @@
+For K-Nearest Neighbor Classification
+python3 knn.py
+
+For K-Means Clustering
+python3 kmean.py
+
+For Hiearchical Agglomerative Clustering
+python3 hac.py
+
+Necessary graphics and current process information will be shown at terminal.

@@ -1,0 +1,9 @@
+FIRST PART  Decision Tree 
+python decisiontree.py 
+
+SECOND PART Support Vector Machine
+python supportvectormachine.py
+
+You can check decision tree diagrams from diagram_backup file or from directory.
+
+At supportvectormachine.py, svm3() (corresponds to third part of svm) prints results of GridSearchCV.
